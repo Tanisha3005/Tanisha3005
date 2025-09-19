@@ -3,7 +3,7 @@
 I'm a passionate BCA student specializing in **Data Science** and **AI**, with a focus on building real-world projects using **Python, SQL, Machine Learning, and Data Visualization**.
 
 🚀 **Projects:**
-- 🛠️ Currently developing **QuizBot** – an AI-based quiz generation tool using LangChain and DeepSeek
+- 🛠️ Developed **QuizBot** – an AI-based quiz generation tool using LangChain and DeepSeek
 - 📊 Completed NYPD Collision Case Study (IBM Cognos)
 - 🚗 Built a Car Price Prediction model using Linear Regression
 
